@@ -48,7 +48,8 @@
     <p>Github:github.com/soniabrigita</p>
     
 
-    <h1>LATIHAN 2</h1><!DOCTYPE html>
+    <h1>LATIHAN 2</h1>
+    <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">

@@ -47,4 +47,70 @@
     <p>Lindkedln: - </p>
     <p>Github:github.com/soniabrigita</p>
     
+
+    <h1>LATIHAN 2</h1><!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jadwal Kuliah</title>
+    <style>
+        table {
+            width: 90%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2> Latihan 2-Jadwal Kuliah</h2>
+    <table>
+        <tr>
+            <th>Shift/Hari</th>
+            <th>Senin</th>
+            <th>Selasa</th>
+            <th>Rabu</th>
+            <th>Kamis</th>
+            <th>Jumat</th>
+        </tr>
+        <tr>
+            <td>08.00-09.40</td>
+            <td>Sistem Basis Data</td>
+            <td>Brand and Social Media Management</td>
+            <td>Pemrograman Web Dasar</td>
+            <td></td>
+            <td>Statistika Bisnis</td>
+        </tr>
+        <tr>
+            <td colspan="6">kosong/break</td>
+        </tr>
+        <tr>
+            <td>09.50-11.30</td>
+            <td></td>
+            <td></td>
+            <td>Microeconomics</td>
+            <td>Prinsip-prinsip Akuntasi</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="6">kosong/break</td>
+        </tr>
+        <tr>
+            <td>12.30-14.10</td>
+            <td></td>
+            <td></td>
+            <td>Hukum Bisnis</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
     

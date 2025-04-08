@@ -126,7 +126,7 @@
 
   <header>
     <h1>My Favorite Things</h1>
-    <p>Beberapa hal yang saya sukai dalam hidup ini</p>
+    <p>Beberapa hal yang saya sukai</p>
   </header>
 
   <nav>
@@ -174,7 +174,7 @@
   </section>
 
   <footer>
-    <p> by soniabrigita | Tugas HTML5</p>
+    <p> by soniabrigita Tugas HTML5</p>
   </footer>
 
 </body>

@@ -7,7 +7,6 @@
     <title>Latihan</title>
 </head>
 <body>
-
     <h1>Sonia Brigita Abel </h1>
 <P>Mahasiswa </P>
 
@@ -42,7 +41,8 @@
         <h2>Portofolio Saya</h2>"https://www.astronauts.id/blog/wp-content/uploads/2023/02/Kumpulan-Resep-Kue-Nastar-yang-Mudah.jpg" alt="Project 1" width="500" height="300">
     </section>
         <img src=
-
+<head>
+<body>
     <h1>Kontak</h1>
     <p>Email:soniabrigitaabel@itbss.ac.id</p>
     <p>Lindkedln: - </p>

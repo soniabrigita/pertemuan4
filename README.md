@@ -114,66 +114,9 @@
 </body>
 </html>
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Favorite Things</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
 
-  <header>
-    <h1>My Favorite Things</h1>
-    <p>Beberapa hal yang saya sukai</p>
-  </header>
 
-  <nav>
-    <ul>
-      <li><a href="#interstellar">Interstellar</a></li>
-      <li><a href="#coldplay">Coldplay</a></li>
-      <li><a href="#harrypotter">Harry Potter</a></li>
-    </ul>
-  </nav>
 
-  <section id="interstellar">
-    <h2>1. Film: Interstellar</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" alt="Poster Interstellar" width="200">
-    <p>Interstellar adalah film fiksi ilmiah tentang perjalanan luar angkasa dan cinta seorang ayah kepada anaknya.</p>
-    <iframe width="300" height="169" src="https://www.youtube.com/embed/zSWdZVtXT7E" title="Interstellar Trailer" frameborder="0" allowfullscreen></iframe>
-    <ul>
-      <li>Ceritanya menyentuh dan penuh makna.</li>
-      <li>Visualnya luar biasa.</li>
-      <li>Soundtrack-nya epik.</li>
-    </ul>
-  </section>
-
-  <section id="coldplay">
-    <h2>2. Musik: Coldplay</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Coldplay_-_Everyday_Life.png" alt="Coldplay Everyday Life Album" width="200">
-    <p>Coldplay adalah band asal Inggris dengan lagu-lagu yang emosional dan inspiratif.</p>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3AJwUDP919kvQ9QcozQPxg?utm_source=generator" width="300" height="80" frameborder="0" allowfullscreen=""></iframe>
-    <ul>
-      <li>Lirik lagunya dalam dan menyentuh.</li>
-      <li>Suaranya khas dan nyaman di telinga.</li>
-      <li>Musiknya membuat rileks dan tenang.</li>
-    </ul>
-  </section>
-
-  <section id="harrypotter">
-    <h2>3. Buku: Harry Potter</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/id/2/2f/Harry_Potter_and_the_Sorcerer%27s_Stone.jpg" alt="Buku Harry Potter" width="200">
-    <p>Harry Potter adalah seri buku fantasi yang menceritakan petualangan seorang penyihir muda dan teman-temannya.</p>
-    <iframe width="300" height="169" src="https://www.youtube.com/embed/VyHV0BRtdxo" title="Harry Potter Trailer" frameborder="0" allowfullscreen></iframe>
-    <ul>
-      <li>Cerita petualangan yang seru.</li>
-      <li>Karakter-karakternya unik dan berkesan.</li>
-      <li>Menumbuhkan imajinasi dan kreativitas.</li>
-    </ul>
-  </section>
-
-  <footer>
     <p> by soniabrigita Tugas HTML5</p>
   </footer>
 
